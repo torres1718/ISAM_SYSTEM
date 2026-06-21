@@ -91,7 +91,6 @@ LICENSE
 El uso, copia, modificacion y distribucion esta permitido unicamente al personal autorizado.
 
 ## Autor
-
+Alexander Vásquez
 Cristobal Torres
 
-Unidad de IT
